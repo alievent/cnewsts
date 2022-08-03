@@ -1,0 +1,11 @@
+Channel	- channel name the article is obtained from
+Source - the publisher of the article
+Source_type - private or state-owned (government-owned), local or national media
+Topic - 1st/2nd level topic. 2rd  level is optional	
+Keywords - keywords. Value is "\N" if no keyword id provided.
+Summary	 - summary. Value is "\N" if no summary is provided.
+Article_Date - 	publication date
+Title - title of the article 
+Link	- article link
+Full_text - full text of the article
+
